@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-06T23:56:13Z" name="Suite" finished-at="2019-06-06T23:56:13Z" duration-ms="63">
+    <groups>
+    </groups>
+    <test started-at="2019-06-06T23:56:13Z" name="Test" finished-at="2019-06-06T23:56:13Z" duration-ms="63">
+      <class name="TestPractice.TestNGParameter">
+        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:TestPractice.TestNGParameter@5c90e579]" started-at="2019-06-06T23:56:13Z" name="login" finished-at="2019-06-06T23:56:13Z" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mturan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2019]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestPractice.TestNGParameter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
